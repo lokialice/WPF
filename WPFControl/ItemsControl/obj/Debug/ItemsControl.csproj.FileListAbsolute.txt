@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\bin\Debug\ItemsControl.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\bin\Debug\ItemsControl.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\bin\Debug\ItemsControl.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ItemsControl\obj\Debug\ItemsControl.pdb

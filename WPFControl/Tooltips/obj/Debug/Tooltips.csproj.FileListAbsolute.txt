@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\bin\Debug\Tooltips.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\bin\Debug\Tooltips.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\bin\Debug\Tooltips.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Tooltips\obj\Debug\Tooltips.pdb

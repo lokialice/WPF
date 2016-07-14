@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\bin\Debug\ProgressBars.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\bin\Debug\ProgressBars.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\bin\Debug\ProgressBars.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ProgressBars\obj\Debug\ProgressBars.pdb

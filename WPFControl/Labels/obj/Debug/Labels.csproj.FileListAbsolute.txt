@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\bin\Debug\Labels.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\bin\Debug\Labels.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\bin\Debug\Labels.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Labels\obj\Debug\Labels.pdb

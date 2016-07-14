@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\bin\Debug\Menus.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\bin\Debug\Menus.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\bin\Debug\Menus.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Menus\obj\Debug\Menus.pdb

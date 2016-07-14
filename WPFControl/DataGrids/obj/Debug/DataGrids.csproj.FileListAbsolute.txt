@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\bin\Debug\DataGrids.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\bin\Debug\DataGrids.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\bin\Debug\DataGrids.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DataGrids\obj\Debug\DataGrids.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\bin\Debug\Sliders.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\bin\Debug\Sliders.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\bin\Debug\Sliders.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Sliders\obj\Debug\Sliders.pdb

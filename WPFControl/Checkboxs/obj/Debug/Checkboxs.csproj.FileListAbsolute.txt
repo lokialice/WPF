@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\bin\Debug\Checkboxs.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\bin\Debug\Checkboxs.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\bin\Debug\Checkboxs.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Checkboxs\obj\Debug\Checkboxs.pdb

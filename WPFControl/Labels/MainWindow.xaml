@@ -1,0 +1,13 @@
+﻿<Window x:Class="Labels.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Labels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Label x:Name="label" Content="Label Example in WPF" HorizontalAlignment="Left" Margin="71,82,0,0" VerticalAlignment="Top" Height="135" Width="474" Background="#FFD6BEBE" FontFamily="Snap ITC" FontSize="36"
+               FontStyle="Italic" FontWeight="Light" Foreground="#FFBD6B6B"/>
+    </Grid>
+</Window>

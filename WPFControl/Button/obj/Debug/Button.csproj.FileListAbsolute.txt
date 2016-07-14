@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\bin\Debug\Button.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\bin\Debug\Button.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\bin\Debug\Button.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Button\obj\Debug\Button.pdb

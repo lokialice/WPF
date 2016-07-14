@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\bin\Debug\RadioButtons.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\bin\Debug\RadioButtons.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\bin\Debug\RadioButtons.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\RadioButtons\obj\Debug\RadioButtons.pdb

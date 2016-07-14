@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\bin\Debug\ScrollViewers.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\bin\Debug\ScrollViewers.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\bin\Debug\ScrollViewers.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ScrollViewers\obj\Debug\ScrollViewers.pdb

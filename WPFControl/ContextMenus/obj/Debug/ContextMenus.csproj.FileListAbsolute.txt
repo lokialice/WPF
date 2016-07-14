@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\bin\Debug\ContextMenus.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\bin\Debug\ContextMenus.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\bin\Debug\ContextMenus.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\ContextMenus\obj\Debug\ContextMenus.pdb

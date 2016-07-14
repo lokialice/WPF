@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\bin\Debug\Comboboxs.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\bin\Debug\Comboboxs.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\bin\Debug\Comboboxs.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\Comboboxs\obj\Debug\Comboboxs.pdb

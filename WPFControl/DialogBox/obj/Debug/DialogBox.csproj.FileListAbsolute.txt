@@ -1,0 +1,14 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\bin\Debug\DialogBox.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\bin\Debug\DialogBox.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\bin\Debug\DialogBox.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.csprojResolveAssemblyReference.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\DialogBox\obj\Debug\DialogBox.pdb

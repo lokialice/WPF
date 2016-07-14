@@ -1,0 +1,13 @@
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\bin\Debug\GridViews.exe.config
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\bin\Debug\GridViews.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\bin\Debug\GridViews.pdb
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\MainWindow.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\App.g.cs
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews_MarkupCompile.cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews_MarkupCompile.lref
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\MainWindow.baml
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews.g.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews.Properties.Resources.resources
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews.csproj.GenerateResource.Cache
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews.exe
+C:\Users\phi.hoang\Desktop\WPF\ItemsControl\GridViews\obj\Debug\GridViews.pdb
